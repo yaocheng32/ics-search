@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lucene-4.0.0/core/lucene-core-4.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/yaocheng/Documents/workspace/Searcher/lucene-4.0.0/docs/core/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lucene-4.0.0/analysis/common/lucene-analyzers-common-4.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/yaocheng/git/edu.uci.ics.searcher/Searcher/lucene-4.0.0/docs/analyzers-common/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lucene-4.0.0/queryparser/lucene-queryparser-4.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/yaocheng/git/edu.uci.ics.searcher/Searcher/lucene-4.0.0/docs/queryparser/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lucene-4.0.0/queries/lucene-queries-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

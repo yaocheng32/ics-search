@@ -1,0 +1,5 @@
+http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+http://www.ics.uci.edu/~eppstein/pix/sunsets/ontheroad-bra.html
+http://www.ics.uci.edu/~eppstein/pix/ontheroad/BwilRestArea.html
+http://www.ics.uci.edu/~eppstein/pix/calave/EnoughRest.html
+http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm

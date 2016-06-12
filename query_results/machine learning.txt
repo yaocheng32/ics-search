@@ -1,0 +1,5 @@
+http://archive.ics.uci.edu/ml/
+http://cml.ics.uci.edu/
+http://mlearn.ics.uci.edu/MLRepository.html
+http://archive.ics.uci.edu/ml/datasets.html
+http://mlearn.ics.uci.edu/

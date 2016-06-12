@@ -1,0 +1,5 @@
+http://luci.ics.uci.edu/blog/?tag=crista-lopes
+http://luci.ics.uci.edu/blog/?paged=2&tag=crista-lopes
+http://luci.ics.uci.edu/blog/?p=416
+http://www.ics.uci.edu/~lopes/
+http://luci.ics.uci.edu/blog/?p=103
